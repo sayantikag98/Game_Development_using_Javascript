@@ -1,0 +1,6 @@
+#canvas{
+    width: 100vh;
+    height: 100vh;
+    background-color: rgba(226, 109, 109, 0.616);
+    border: 2px solid black;
+}
